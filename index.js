@@ -12,4 +12,4 @@ function add(a,b){
   return n -= 1
 } function makeInt(n){
   return parseInt(n)
-} function
+} 
